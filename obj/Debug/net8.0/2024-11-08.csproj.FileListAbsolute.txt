@@ -1,0 +1,14 @@
+C:\Github\2024-11-08\obj\Debug\net8.0\2024-11-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\2024-11-08\obj\Debug\net8.0\2024-11-08.AssemblyInfoInputs.cache
+C:\Github\2024-11-08\obj\Debug\net8.0\2024-11-08.AssemblyInfo.cs
+C:\Github\2024-11-08\obj\Debug\net8.0\2024-11-08.csproj.CoreCompileInputs.cache
+C:\Github\2024-11-08\bin\Debug\net8.0\2024-11-08.exe
+C:\Github\2024-11-08\bin\Debug\net8.0\2024-11-08.deps.json
+C:\Github\2024-11-08\bin\Debug\net8.0\2024-11-08.runtimeconfig.json
+C:\Github\2024-11-08\bin\Debug\net8.0\2024-11-08.dll
+C:\Github\2024-11-08\bin\Debug\net8.0\2024-11-08.pdb
+C:\Github\2024-11-08\obj\Debug\net8.0\2024-11-08.dll
+C:\Github\2024-11-08\obj\Debug\net8.0\refint\2024-11-08.dll
+C:\Github\2024-11-08\obj\Debug\net8.0\2024-11-08.pdb
+C:\Github\2024-11-08\obj\Debug\net8.0\2024-11-08.genruntimeconfig.cache
+C:\Github\2024-11-08\obj\Debug\net8.0\ref\2024-11-08.dll
